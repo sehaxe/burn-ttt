@@ -1,4 +1,4 @@
-# burn-ttt — Test-Time Training for Burn
+# burn-ttt - Test-Time Training for Burn
 
 [![CI](https://github.com/sehaxe/burn-ttt/actions/workflows/ci.yml/badge.svg)](https://github.com/sehaxe/burn-ttt/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/burn-ttt)](https://crates.io/crates/burn-ttt)
